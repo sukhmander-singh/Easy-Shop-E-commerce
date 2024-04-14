@@ -21,4 +21,4 @@ To use this project for your own learning or development, you can download the H
 Alternatively, you can clone this repository using the following command:
 
 ```bash
-git clone <https://github.com/sukhmander-singh/Easy-Shop-E-commerce.git>
+git clone https://github.com/sukhmander-singh/Easy-Shop-E-commerce.git
